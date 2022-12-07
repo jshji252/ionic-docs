@@ -24,7 +24,7 @@ There are two hard requirements for publishing an app on the macOS app store
 
 ### Publishing
 
-The Electron team has a detailed guide on how to publish an app for macOS. Please review [the docs here.](https://electronjs.org/docs/tutorial/mac-app-store-submission-guide)
+The Electron team has a detailed guide on how to publish an app for macOS. Please review [the docs here](https://electronjs.org/docs/tutorial/mac-app-store-submission-guide).
 
 ## Windows App
 
@@ -45,4 +45,4 @@ npm install -g electron-windows-store
 
 ### Publishing
 
-Like macOS, Electron has a detailed guide on how to publish an app for Windows. Please review [the docs here](https://electronjs.org/docs/tutorial/windows-store-guide)
+Like macOS, Electron has a detailed guide on how to publish an app for Windows. Please review [the docs here](https://electronjs.org/docs/tutorial/windows-store-guide).
